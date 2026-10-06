@@ -13,7 +13,7 @@ $('body').terminal(
 	},
 	
 	help: function(arg) {
-		if (what === 'info') {
+		if (arg === 'info') {
 			this.echo('Info test success');
 		}
 	},
