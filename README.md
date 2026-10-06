@@ -1,2 +1,2 @@
-# Homelab pages hosting
+# Homelab hosting
 GitHub Pages hosting --> CloudFlare --> User
