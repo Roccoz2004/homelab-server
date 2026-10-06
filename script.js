@@ -9,9 +9,8 @@ $('body').terminal(
 				'- about\n' + '\t+ Gives info about the site.\n' +
 				'- help [opt]\n' + '\t+ Lists available commands.\n' +
 				'- media <arg>\n'
-				);
-		}
-	}
+		);
+	},
 	
 	help: function(arg) {
 		if (what === 'bruh') {
